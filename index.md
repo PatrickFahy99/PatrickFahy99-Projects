@@ -1,5 +1,6 @@
 # Patrick Fahy Data Science Projects
-A summary of some of my data science projects
+
+### A (short) summary of some of my data science projects
 
 # [Project 1: Car Value Prediction - Webscraping, Model Building & Deployment](https://github.com/PatrickFahy99/Projects/tree/master/Non-Finance/Car_Project)
 
