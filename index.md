@@ -1,7 +1,5 @@
 # Patrick Fahy Data Science Projects
 
-### A (short) summary of some of my data science projects
-
 # [Project 1: Car Value Prediction - Webscraping, Model Building & Deployment](https://github.com/PatrickFahy99/Projects/tree/master/Non-Finance/Car_Project)
 
 Created a tool to predict the value of a car given its mileage, bhp, litre engine, age etc...
