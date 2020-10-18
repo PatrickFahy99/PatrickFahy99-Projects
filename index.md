@@ -25,5 +25,7 @@ Used clustering to form groups of stocks within a list, then used Cointegration 
 
 
 I have done plenty of other Data Science projects too! 
+
 These include projects on House Pricing, Heart Disease Death Prediction, NLP, FIFA 20 Player Rating Prediction, SVC's in Trading, Using a Linear Regression on Fundamental data of companies, the use of Monte Carlo Methods in Finance, and the efficient Frontier of Portolfios.
+
 Have a look in my 'Projects' repo, https://github.com/PatrickFahy99/Projects.
