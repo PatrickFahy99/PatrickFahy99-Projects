@@ -24,6 +24,8 @@ Created a sequence of R notebooks showing ARIMA, GARCH, Cointegration and Markov
 Used clustering to form groups of stocks within a list, then used Cointegration to find pairs of stocks for pairs trading then made a simple backtester for a trading strategy involving these pairs 
 
 
+## Other
+
 I have done plenty of other Data Science projects too! 
 
 These include projects on House Pricing, Heart Disease Death Prediction, NLP, FIFA 20 Player Rating Prediction, SVC's in Trading, Using a Linear Regression on Fundamental data of companies, the use of Monte Carlo Methods in Finance, and the efficient Frontier of Portolfios.
