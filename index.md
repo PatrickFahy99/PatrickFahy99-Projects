@@ -17,14 +17,15 @@ Created a tool to predict the value of a car given its mileage, bhp, litre engin
 
 # [Project 2: Time Series Analysis in R](https://github.com/PatrickFahy99/Projects/tree/master/Finance/Time%20Series%20Analysis%20R)
 
-Created a sequence of R notebooks showing ARIMA, GARCH, Cointegration and Markov Chain Monte Carlo (MCMC) methods for financial data.
+Created a sequence of R notebooks showing ARIMA, GARCH, Cointegration and Hidden Markov Models (HMMs) for financial data.
 
-# [Project 3: Python for Mathematics/Statistics](https://github.com/PatrickFahy99/WDSS-Teaching-MathStat)
+The following image is a plot of MCMC for Regime Detection with two states 
 
-Created 16 Mathematics/Statistics subject specific examples over a series of 8 notebooks used in a beginners' course in Python, hosted by Warwick Data Science Society.
+# [Project 3: Heart Disease Death Prediction](https://github.com/PatrickFahy99/Projects/blob/master/Non-Finance/Heart%20Disease%20Death%20Prediction.ipynb)
 
-Examples include:
-* name
+Used feature generation on a small dataset (299 rows) in order to generate few but very powerful features.
+
+Implemented a voting classifier in order to achieve an accuracy of ~85%
 
 
 # [Project 4: Clustering in Portoflio Construction](https://github.com/PatrickFahy99/Projects/blob/master/Finance/Cluster%20Portfolio%20Construction.ipynb)
