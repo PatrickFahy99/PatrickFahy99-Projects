@@ -17,8 +17,15 @@ Created a tool to predict the value of a car given its mileage, bhp, litre engin
 
 Created a sequence of R notebooks showing ARIMA, GARCH, Cointegration and Markov Chain Monte Carlo (MCMC) methods for financial data.
 
+# [Project 3: Python for Mathematics/Statistics](https://github.com/PatrickFahy99/WDSS-Teaching-MathStat)
 
-# [Project 3: Clustering in Portoflio Construction](https://github.com/PatrickFahy99/Projects/blob/master/Finance/Cluster%20Portfolio%20Construction.ipynb)
+Created 16 Mathematics/Statistics subject specific examples over a series of 8 notebooks used in a beginners' course in Python, hosted by Warwick Data Science Society.
+
+Examples include:
+* name
+
+
+# [Project 4: Clustering in Portoflio Construction](https://github.com/PatrickFahy99/Projects/blob/master/Finance/Cluster%20Portfolio%20Construction.ipynb)
 
 Used clustering to form groups of stocks within a list, then used Cointegration to find pairs of stocks for pairs trading then made a simple backtester for a trading strategy involving these pairs 
 
