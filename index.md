@@ -43,4 +43,4 @@ I have done plenty of other Data Science projects too!
 
 These include projects on House Pricing, NLP, Premier League Badge Prediction, FIFA 20 Player Rating Prediction, SVC's in Trading, Using a Linear Regression on Fundamental data of companies, the use of Monte Carlo Methods in Finance, the efficient Frontier of Portolfios and clustering and cointegration in pairs trading.
 
-Have a look in my 'Projects' repo, https://github.com/PatrickFahy99/Projects.
+Have a look in my 'Projects' repo, (https://github.com/PatrickFahy99/Projects)
