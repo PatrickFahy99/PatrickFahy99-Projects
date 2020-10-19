@@ -12,7 +12,7 @@ Created a tool to predict the value of a car given its mileage, bhp, litre engin
 
 * Created an application using flask to allow a user to input information and receive a valuation for their car, as shown below:
 
-![](<img width="613" alt="Car_project_pic" src="https://user-images.githubusercontent.com/58711701/96518178-3ded7800-1262-11eb-8dee-04c46f48ad47.png">)
+<img width="613" alt="Car_project_pic" src="https://user-images.githubusercontent.com/58711701/96518178-3ded7800-1262-11eb-8dee-04c46f48ad47.png">
  
 
 # [Project 2: Time Series Analysis in R](https://github.com/PatrickFahy99/Projects/tree/master/Finance/Time%20Series%20Analysis%20R)
