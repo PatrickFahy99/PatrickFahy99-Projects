@@ -21,11 +21,16 @@ Created a sequence of R notebooks showing ARIMA, GARCH, Cointegration and Hidden
 
 The following image is a plot of MCMC for Regime Detection with two states 
 
+<img width="629" alt="Screenshot 2020-10-19 at 23 46 21" src="https://user-images.githubusercontent.com/58711701/96521867-25815b80-126a-11eb-8415-60d3b9501eea.png">
+
+
 # [Project 3: Heart Disease Death Prediction](https://github.com/PatrickFahy99/Projects/blob/master/Non-Finance/Heart%20Disease%20Death%20Prediction.ipynb)
 
 Used feature generation on a small dataset (299 rows) in order to generate few but very powerful features.
 
 Implemented a voting classifier in order to achieve an accuracy of ~85%
+
+<img width="407" alt="Screenshot 2020-10-20 at 00 19 59" src="https://user-images.githubusercontent.com/58711701/96521869-274b1f00-126a-11eb-997d-6f9913dadce9.png">
 
 
 # [Project 4: Clustering in Portoflio Construction](https://github.com/PatrickFahy99/Projects/blob/master/Finance/Cluster%20Portfolio%20Construction.ipynb)
@@ -37,6 +42,6 @@ Used clustering to form groups of stocks within a list, then used Cointegration 
 
 I have done plenty of other Data Science projects too! 
 
-These include projects on House Pricing, Heart Disease Death Prediction, NLP, Premier League Badge Prediction, FIFA 20 Player Rating Prediction, SVC's in Trading, Using a Linear Regression on Fundamental data of companies, the use of Monte Carlo Methods in Finance, and the efficient Frontier of Portolfios.
+These include projects on House Pricing, NLP, Premier League Badge Prediction, FIFA 20 Player Rating Prediction, SVC's in Trading, Using a Linear Regression on Fundamental data of companies, the use of Monte Carlo Methods in Finance, and the efficient Frontier of Portolfios.
 
 Have a look in my 'Projects' repo, https://github.com/PatrickFahy99/Projects.
