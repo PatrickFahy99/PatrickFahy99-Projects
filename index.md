@@ -12,7 +12,7 @@ Created a tool to predict the value of a car given its mileage, bhp, litre engin
 
 * Created an application using flask to allow a user to input information and receive a valuation for their car, as shown below:
 
-![](/Users/patrickfahy99/Documents/Images_for_dsweb/Car_project_pic)
+![](/Users/patrickfahy99/Documents/Images_for_dsweb/Car_project_pic.png)
  
 
 # [Project 2: Time Series Analysis in R](https://github.com/PatrickFahy99/Projects/tree/master/Finance/Time%20Series%20Analysis%20R)
